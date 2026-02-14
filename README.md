@@ -1,5 +1,5 @@
 # Bookstore Sales Data Analysis (SQL Project)
-📌 Project Overview
+# Project Overview
 
 This project analyzes a bookstore dataset using SQL across three tables: Books, Customers, and Orders.
 
@@ -13,7 +13,7 @@ Customers.csv – Customer information including name, country, and city
 
 Orders.csv – Order transactions including quantity purchased, order date, and total amount
 
-🎯 Key Objectives
+# Key Objectives
 
 In this project, I solved real-world business problems such as:
 
@@ -31,7 +31,7 @@ Customer location analysis based on spending
 
 Inventory insights including lowest and total stock
 
-🛠 Tools & Skills Used
+# Tools & Skills Used
 
 SQL (Joins, Aggregations, Group By, Having, Subqueries)
 
@@ -41,7 +41,7 @@ Business Insights Generation
 
 Problem Solving
 
-📊 Business Value
+# Business Value
 
 This project demonstrates how SQL can be used to:
 
